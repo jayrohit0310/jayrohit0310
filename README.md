@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Jay Rohit  
 
-🎓 **B.Tech (Information Security), 2nd Year**  
-🏫 CHARUSAT University, India  
+🎓 **B.Tech (Information Technology), 2nd Year**  
+🏫 CSPIT, CHARUSAT University, India  
 
 ---
 
 ## 🚀 About Me  
 
-I am an enthusiastic **Information Security student** with a strong foundation in problem-solving and a passion for building real-world applications.  
+I am an enthusiastic **Information Technology student** with a strong foundation in problem-solving and a passion for building real-world applications.  
 I enjoy exploring **cybersecurity, backend systems, and scalable web applications**, while continuously improving my technical and analytical skills.
 
 ---
