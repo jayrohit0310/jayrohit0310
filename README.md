@@ -16,7 +16,10 @@ I enjoy exploring **cybersecurity, backend systems, and scalable web application
 
 ### 💻 Languages & Technologies  
 - HTML, CSS, JavaScript  
-- Python  
+- Python
+- JAVA
+- PHP
+- MongoDB
 - MySQL  
 - React.js  
 - Node.js  
@@ -25,17 +28,14 @@ I enjoy exploring **cybersecurity, backend systems, and scalable web application
 - VS Code  
 - Git & GitHub  
 - Cursor  
-- Antigravity  
+- Antigravity
+- Cisco Packet tracer
 
 ---
 
 ## 📂 Projects  
 
-### 🔍 Resume Scanner (Python)  
-- Developed a system to **analyze and extract data from resumes**  
-- Helps in filtering and shortlisting candidates efficiently  
-
-### 🗳️ Online Voting System (Flask)  
+### 🗳️ Secure and Automated Digital Voting System (Flask)  
 - Built a **secure web-based voting platform**  
 - Implemented authentication and vote management features  
 
@@ -65,14 +65,15 @@ I enjoy exploring **cybersecurity, backend systems, and scalable web application
 
 - Advanced Web Development  
 - Backend Optimization  
-- Cybersecurity Concepts  
+- Cybersecurity Concepts
+- database management 
 
 ---
 
 ## 🎯 Goals  
 
 - Build impactful real-world applications  
-- Strengthen expertise in Information Security  
+- Strengthen expertise in Information technology
 - Contribute to open-source projects  
 
 ---
