@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jay Rohit  
 
-🎓 **B.Tech (Information Technology), 2nd Year**  
+🎓 **B.Tech (Information Technology), 3rd Year**  
 🏫 CSPIT, CHARUSAT University, India  
 
 ---
